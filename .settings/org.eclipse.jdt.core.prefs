@@ -14,26 +14,7 @@
 # See the License for the specific language governing permissions and
 # limitations under the License.
 # -----------------------------------------------------------------------------
-logs
-nbproject
-output
-# Next line commented out, because test/webapp-3.0-virtual-library and
-# test/webapp-3.0-virtual-webapp use it:
-# target
-work
-build.properties
-mvn.properties
-.checkstyle
-.fbprefs
-*.iml
-*.asc
-*.jj
-*.tmp
-maven-ant-tasks-*.jar
-thumbs.db
-Thumbs.db
-bin/setenv.*
-java/org/apache/catalina/startup/catalina.properties
-modules/jdbc-pool/bin
-modules/jdbc-pool/includes
-webapps/docs/jdbc-pool.xml
+eclipse.preferences.version=1
+org.eclipse.jdt.core.compiler.codegen.targetPlatform=1.6
+org.eclipse.jdt.core.compiler.compliance=1.6
+org.eclipse.jdt.core.compiler.source=1.6
